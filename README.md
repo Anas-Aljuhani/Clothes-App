@@ -49,10 +49,10 @@ The purpose of this app is to allow admin to discover and CRUD items with more f
 ### Running the App
 1. Clone the repository: 
    ```bash
-   git clone https://github.com/Basel-75/Project-6.git
+   git clone https://github.com/Basel-75/Clothes-App.git
 2. Navigate to the project directory: 
    ```bash
-   cd Project-6
+   cd Clothes-App
 
 3. Install dependencies: 
    ```bash
