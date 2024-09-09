@@ -1,0 +1,34 @@
+name: clothes_app
+description: "A new Flutter project."
+publish_to: none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  bloc: ^8.1.4
+  buttons_tabbar: ^1.3.13
+  flashy_tab_bar2: ^0.0.10
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.6
+  get_it: ^7.7.0
+  get_storage: ^2.1.1
+  icons_plus: ^5.0.0
+  meta: ^1.15.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Romanesco
+      fonts:
+        - asset: assets/fonts/Romanesco-Regular.ttf
+  assets:
+  - assets/image/
+
